@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/romancolliseum.html objectid="romancolliseum.jpg" %}
+{% include feature/romanpeople.html objectid="romanpeople.jpe.png" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
