@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: First Century Roman Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a Collection of Roman History Books in Spanish Version
+tagline: Acient History Books in 1st-Century Rome
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "It is an exhibition of the first 5 pages of every 10 spanish version books of Roman historians of the first century."
+description: "The First Century Romans collection is a project that will house digitized books of the most representative Roman historians of the first century A.D., (25 BC to 100 A.D.). This particular  period of time was considered as the golden age, which there were the most important Roman historians of Classical Antiquity."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Elio Silva Rossel
 
