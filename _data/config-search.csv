@@ -1,7 +1,15 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
+creator,true,true
 description,true,true
 subject,true,true
 location,true,false
+translator,true,true
+publisher,true,true
+fileformat,true,true
+series,true,true
+language,true,true
+dimension,true,true
+lenght,true,true
+placeofpublication,true
