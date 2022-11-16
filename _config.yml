@@ -1,5 +1,5 @@
 ##########
-# First Century Roman Collecction 
+# First Century Romans Collecction 
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: First Century Roman Collection 
+title: First Century Romans' Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Ancient History Books in 1st-Century Rome
 # description appears in meta tags and other locations
