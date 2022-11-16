@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+translator,Translator
+publicationdate,Publication Date,
+placeofpublication, Place of Publication
 description,Description,
 subject,Subjects,true
+language,Language
 location,Location
-latitude,Latitude
-longitude,Longitude
+pages,Pages
+dimension,Dimension
 source,Source
-identifier,Source Identifier,,
-type,Type,
+series,Series
+publisher,publisher
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
