@@ -7,6 +7,8 @@ permalink: /bibliography.html
 ---
 # Bibliography
 
+
+
 Apiano, Guerras Ibéricas.(Madrid: Alianza Editorial, 2016)
 
 Plutarco, Vidas de los Diez Oradores.(Madrid: Akal Ediciones, 2005)
