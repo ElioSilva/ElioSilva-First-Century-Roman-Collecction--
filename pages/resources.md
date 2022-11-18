@@ -6,8 +6,6 @@ permalink: /resources.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 # Related Resources
-
-
 ## Other ephemeral text digital libraries/databases
 
 [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
