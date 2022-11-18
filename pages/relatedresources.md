@@ -7,7 +7,7 @@ permalink: /relatedresources.html
 ---
 # Related Resources
 
-Although there are many databases where you can find digital projects containing classical Roman and Greek texts, most are in English French. It is unusual to find digital projects and even databases and catalogs in Spanish as the case of [Classical Philology](https://filologiaclasica.es/directorio/bases-de-datos-y-catalogos/).
+Although there are many databases where you can find digital projects containing classical Roman and Greek texts, most are in English or French. It is unusual to find digital projects and even databases and catalogs in Spanish.There are very few such as [Filologia Clásica](https://filologiaclasica.es/directorio/bases-de-datos-y-catalogos/).
 
 Also, because classical scholars heavily depend on textual sources for their research, texts in original languages or translated into English can now be counted on. Several can be found in the sources below.
 
