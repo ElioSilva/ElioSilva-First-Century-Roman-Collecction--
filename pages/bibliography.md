@@ -15,13 +15,13 @@ Plutarco, Vidas de los Diez Oradores.(Madrid: Akal Ediciones, 2005)
 
 Plutarco, Vidas Paralelas: Demetrio y Antonio.(Madrid: Alianza Editorial, 2007)
 
-Plutarco, Vidas Paralelas: Arístides y Catón.(Madrid:Akal Ediciones, 2003) 
+Plutarco, Vidas Paralelas: Arístides y Catón.(Madrid: Akal Ediciones, 2003) 
 
 Plutarco, Vidas Paralelas: Pericles y Fabio Máximo.(Madrid: Editorial Gredos, 2010)
 
 Plutarco, Vidas Paralelas: Alejandro y César. (Madrid: Alianza Editorial, 2016)
 
-Plutarco, Vidas Paralelas: Sertorio y Pompeyo. (Madrdid: Akal Ediciones, 2004)
+Plutarco, Vidas Paralelas: Sertorio y Pompeyo. (Madrid: Akal Ediciones, 2004)
 
 Polibio, Historia de Roma. (Madrid: Alianza Editorial, 2018)
 
