@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
-Project idea, creation and work by Elio Silva Rossel Project
+Project idea, Project creation and work by Elio Silva Rossel 
 
 Items are from the creator's personal collection. All of the objects were bought from bookstores online.
 
