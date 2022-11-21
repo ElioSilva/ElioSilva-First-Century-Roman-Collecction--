@@ -23,13 +23,13 @@ Suetonius (c.e 70 - 140) was a Roman historian. He became friends with Pliny the
 Tacitus (c. 55- 117) was a Roman historian. The few facts that are known about his life indicate that he developed a brilliant political career that led him to the Senate, as well as to hold the position of consul. His wedding in 78 with a daughter of Gnaeus Julius Agricola, a Roman general who fought in Britain, of whom Tacitus wrote a biography: Agricola, is also known. Another important work that must be highlighted is On the origin and country of the Germans, better known as Germania, in which he traces a vivid representation of the life and culture of the Germans. However, his most famous works are the Annals, a history of the emperors of the Julio-Claudian dynasty beginning with Tiberius; and the Histories, about the Flavian dynasty. Both works represent a grandiose effort to recreate a turbulent period in Roman history, and in them he offers an implacable portrait of the great figures of the time, highlighting their weaknesses. The author's tone also reflects a certain nostalgia for the times of the Republic and Roman greatness[^5].
 
 ## Tito livio
-Livy (64 BC - AD 17) was a Latin historian. Installed in Rome probably from the year 30 BC, he became interested in rhetoric and wrote moral dialogues, which he later put aside to devote himself to writing a great history of Rome, Ab urbe condita libri (better known as the Decades). . This masterpiece earned him the favor of Emperor Octavian Augustus. Only 35 of the 142 books that made up the work are preserved, which covers from the founding of the city to the year 9 B.C. A top piece of Latin prose from the end of the classical period, for his composition he used archives and ancient historians whom he rarely quotes (which is why his work lacks reliability with respect to some periods) and interspersed small reflections in the middle of the narrative, marked by an epic and dramatic tone. Livio conceived history from a moral point of view, and, more than a scientifically constructed work. Much admired by his contemporaries, he served as a model for later historians and influenced epic poets[^6].
+Livy (64 BC - AD 17) was a Latin historian. Installed in Rome probably from the year 30 BC, he became interested in rhetoric and wrote moral dialogues, which he later put aside to devote himself to writing a great history of Rome, Ab urbe condita libri (better known as the Decades). . This masterpiece earned him the favor of Emperor Octavian Augustus. Only 35 of the 142 books that made up the work are preserved, which covers from the founding of the city to the year 9 B.C. A top piece of Latin prose from the end of the classical period, for his composition he used archives and ancient historians whom he rarely quotes (which is why his work lacks reliability with respect to some periods) and interspersed small reflections in the middle of the narrative, marked by an epic and dramatic tone. Much admired by his contemporaries, he served as a model for later historians and influenced epic poets[^6].
 
 
 ## Notes
-[^1]: https://dbe.rah.es/biografias/9956/apiano
-[^2]: https://dbe.rah.es/biografias/14205/polibio
-[^3]: https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
-[^4]: https://www.biografiasyvidas.com/biografia/s/suetonio.htm
-[^5]: https://www.biografiasyvidas.com/biografia/t/tacito.htm
-[^6]: https://www.biografiasyvidas.com/biografia/l/livio.htm 
+[^1]: Biografía de Apiano. Real Academia de la Historia.https://dbe.rah.es/biografias/9956/apiano
+[^2]: Biografía de Polibio. Real Academia de la Historia.https://dbe.rah.es/biografias/14205/polibio
+[^3]: Biografía y vidas: Plutarco. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
+[^4]: Biografía y vidas: Suetonio. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/s/suetonio.htm
+[^5]: Biografía y vidas: Tácito. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/t/tacito.htm
+[^6]: Biografía y vidas: Tito Livio. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/l/livio.htm 
