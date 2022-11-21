@@ -54,10 +54,10 @@ ii.	Compound phrases: Alea Iacta Est; Repetit italiam; perfectique utrunque
 iii.	Complex phrases: Conspiraciones en Roma; Los idus de Marzo; Retraro y papel personal de Julio César.
 
 #### File Format - required 1 value allowed
-All items in the collection should be made into Pdf.according to the Media Types from Internet Assigned numbers Authority  and Mime types,
- items were saved as author name, book title and the file extension!
-
-Example:a.	suetonio_vidasdeloscesares.pdf
+All items in the collection should be made into Pdf. According to the Media Types from Internet Assigned numbers Authority  and Mime types,
+ items were saved as author name, book title and the file extension in the computer. However for the metadata, it should be named pdf after a slash.
+ 
+ Example: application/pdf
 
 #### Lenght - required 1 value allowed
 the number of pages each book contains. It covers from the first page with writing, either introduction or preface,and first five pages. It does not count any blank sheets.
@@ -74,6 +74,12 @@ The dimension is the size of the physical book. Every book was measured before b
 
 Example: 4.72 x 7.09in
 
+#### Publisher - optional, 1 value allowed
+
+The publishing company that is in charge of publishing new copies with recent preliminary studies and new translations that allows the reader to get closer to the author's original text is mentioned.
+
+exxample: [Alianza Editorial](https://www.alianzaeditorial.es/quienes-somos/)
+
 #### Translator - required , multiple values allowed
 All the published works are translated. The translator or contributor  is listed in this field in order to not be confused with the original author in the creator element. Like the creator element, the values of the translator element are formatted according to the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html).
 
@@ -84,11 +90,11 @@ I have permission from Book publishing companies to post few pages from every bo
 
 Bellow you can enter the Legal Notice section of any of the three publishers' websites:
 
-[Alianza Editorial](https://www.alianzaeditorial.es/aviso-legal/)
+[Aviso Legal de Alianza Editorial](https://www.alianzaeditorial.es/aviso-legal/)
 
-[Akal Ediciones](https://www.akal.com/p/aviso-legal/)
+[Aviso Legal de Akal Ediciones](https://www.akal.com/p/aviso-legal/)
 
-[Gredos Ediciones](https://www.rba.es/general/aviso-legal-libros_179)
+[Aviso Legal de Gredos Ediciones](https://www.rba.es/general/aviso-legal-libros_179)
 
 ## Acknowledgments
 First, I would like to mention Dr. John Walsh and Associate instructor Alex Wingate for their valuable help and feedback that I received for the sake of this project. I thank all the people who believed in me since I came to the US to start a new phase of my life. Some of them are no longer with me, but they will still be in my heart. I will demonstrate with this work that it is possible to go far doing what one is passionate about.
