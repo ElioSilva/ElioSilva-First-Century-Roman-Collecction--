@@ -7,7 +7,7 @@ permalink: /advertising.html
 ---
 # Advertising 
 
-### Publishers 
+## Publishers 
 Although there are several Spanish-speaking publishers that have large collections in the world, there are three highly prestigious publishers that have dedicated themselves to translating and reworking editions of Greco-Latin classics. It should be noted that these three publishers are only from Spain.
 
 #### Alianza Editorial
