@@ -19,13 +19,15 @@ Items are from the creator's personal collection. All of the objects were bought
 
 This collection doesn't pretend to reinvent the wheel. It actually serves  as a useful tool for all historians and librarians who want to specialized in manuscripts and rare books, but who have  difficult access to physical books of Roman classic works, especially in Spanish. The matching of  both academic fields would contribute to the development of areas, such as Spanish Studies, Spanish linguistics, Classical Latin studies, Late antiquity history and librarianship. Likewise, the elaboration of this collection help to contribute to the expansion  and variety of research sources of this particular historiographic branch. Finally, it serves  as a reference or inspiration for future scholars who want to exhibit a collection of any academic field in different languages.
 
-Special thanks to Github and CollectionBuilder, that served as a platform to share my collection and convey my passion for classical history. 
+
 
 ## About the Platform
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- a folder of PDF documents
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
+Special thanks to Github and CollectionBuilder, that served as a platform to share my collection and convey my passion for classical history. 
