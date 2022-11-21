@@ -26,7 +26,7 @@ Tacitus (c. 55- 117) was a Roman historian. The few facts that are known about h
 Livy (64 BC - AD 17) was a Latin historian. Installed in Rome probably from the year 30 BC, he became interested in rhetoric and wrote moral dialogues, which he later put aside to devote himself to writing a great history of Rome, Ab urbe condita libri (better known as the Decades). . This masterpiece earned him the favor of Emperor Octavian Augustus. Only 35 of the 142 books that made up the work are preserved, which covers from the founding of the city to the year 9 B.C. A top piece of Latin prose from the end of the classical period, for his composition he used archives and ancient historians whom he rarely quotes (which is why his work lacks reliability with respect to some periods) and interspersed small reflections in the middle of the narrative, marked by an epic and dramatic tone. Much admired by his contemporaries, he served as a model for later historians and influenced epic poets[^6].
 
 
-## Notes
+#### Notes
 [^1]: Biografía de Apiano. Real Academia de la Historia. https://dbe.rah.es/biografias/9956/apiano
 [^2]: Biografía de Polibio. Real Academia de la Historia. https://dbe.rah.es/biografias/14205/polibio
 [^3]: Biografía y vidas: Plutarco. La enciclopedia Biográfica en línea. https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
