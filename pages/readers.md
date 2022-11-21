@@ -6,4 +6,5 @@ permalink: /readers.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 # Reading public
-Who read these Classic Roman books?
+To whom are the classic Latin books addressed?
+
