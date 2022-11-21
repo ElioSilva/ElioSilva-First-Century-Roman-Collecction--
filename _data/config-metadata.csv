@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+date,Date,
 translator,Translator
 publicationdate,Publication Date,
 placeofpublication, Place of Publication
