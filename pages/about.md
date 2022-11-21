@@ -13,7 +13,13 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
-   This collection doesn't pretend to reinvent the wheel. It actually serves  as a useful tool for all historians and librarians who want to specialized in manuscripts and rare books, but who have  difficult access to physical books of Roman classic works, especially in Spanish. The matching of  both academic fields would contribute to the development of areas such asSpanish Studies, Spanish linguistics, Classical Latin studies, Late antiquity history and librarianship. Likewise, the elaboration of this collection help to contribute to the expansion  and variety of research sources of this particular historiographic branch. Finally, it serves  as a reference or inspiration for future scholars who want to exhibit a collection of any academic field in different languages.
+Project idea, creation and work by Elio Silva Rossel Project
+
+Items are from the creator's personal collection. All of the objects were bought from bookstores online.
+
+This collection doesn't pretend to reinvent the wheel. It actually serves  as a useful tool for all historians and librarians who want to specialized in manuscripts and rare books, but who have  difficult access to physical books of Roman classic works, especially in Spanish. The matching of  both academic fields would contribute to the development of areas such asSpanish Studies, Spanish linguistics, Classical Latin studies, Late antiquity history and librarianship. Likewise, the elaboration of this collection help to contribute to the expansion  and variety of research sources of this particular historiographic branch. Finally, it serves  as a reference or inspiration for future scholars who want to exhibit a collection of any academic field in different languages.
+
+Special thanks to Github and CollectionBuilder, that served as a platform to share my collection and convey my passion for classical history. 
 
 ## About the Platform
 
