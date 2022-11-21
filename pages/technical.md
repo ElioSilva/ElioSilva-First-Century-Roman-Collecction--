@@ -67,7 +67,7 @@ Example: 9pp
 #### Series - required 1 value allowed
 The genre series under which a classical book was published. First word of the title and the author’s name are capitlized. Those include accent marks or tíldes
  
- Example: Vidas de los Doce Césares
+Example: Vidas de los Doce Césares
 
 #### Dimensions - required, 1 value allowed
 The dimension is the size of the physical book. Every book was measured before being digitized, through ruler, Sturdy flat object (such as a book or piece of cardboard) or Flat surface. State dimension in inches. Format as Win x Lin where W=horizontal measurement and L=vertical measurement.
@@ -78,7 +78,7 @@ Example: 4.72 x 7.09in
 
 The publishing company that is in charge of publishing new copies with recent preliminary studies and new translations that allows the reader to get closer to the author's original text is mentioned.
 
-exxample: [Alianza Editorial](https://www.alianzaeditorial.es/quienes-somos/)
+Example: [Alianza Editorial](https://www.alianzaeditorial.es/quienes-somos/)
 
 #### Translator - required , multiple values allowed
 All the published works are translated. The translator or contributor  is listed in this field in order to not be confused with the original author in the creator element. Like the creator element, the values of the translator element are formatted according to the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html).
