@@ -27,9 +27,9 @@ Livy (64 BC - AD 17) was a Latin historian. Installed in Rome probably from the 
 
 
 ## Notes
-[^1]: Biografía de Apiano. Real Academia de la Historia.https://dbe.rah.es/biografias/9956/apiano
-[^2]: Biografía de Polibio. Real Academia de la Historia.https://dbe.rah.es/biografias/14205/polibio
-[^3]: Biografía y vidas: Plutarco. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
-[^4]: Biografía y vidas: Suetonio. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/s/suetonio.htm
-[^5]: Biografía y vidas: Tácito. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/t/tacito.htm
-[^6]: Biografía y vidas: Tito Livio. La enciclopedia Biográfica en línea.https://www.biografiasyvidas.com/biografia/l/livio.htm 
+[^1]: Biografía de Apiano. Real Academia de la Historia. https://dbe.rah.es/biografias/9956/apiano
+[^2]: Biografía de Polibio. Real Academia de la Historia. https://dbe.rah.es/biografias/14205/polibio
+[^3]: Biografía y vidas: Plutarco. La enciclopedia Biográfica en línea. https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
+[^4]: Biografía y vidas: Suetonio. La enciclopedia Biográfica en línea. https://www.biografiasyvidas.com/biografia/s/suetonio.htm
+[^5]: Biografía y vidas: Tácito. La enciclopedia Biográfica en línea. https://www.biografiasyvidas.com/biografia/t/tacito.htm
+[^6]: Biografía y vidas: Tito Livio. La enciclopedia Biográfica en línea. https://www.biografiasyvidas.com/biografia/l/livio.htm 
