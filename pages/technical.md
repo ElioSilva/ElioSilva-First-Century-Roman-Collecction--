@@ -85,7 +85,7 @@ All the published works are translated. The translator or contributor  is listed
 
 For Example: Castro de Castro, David
 
-#### Rights - required, 1 value allowed
+## Rights 
 I have permission from Book publishing companies to post few pages from every book in the website. However, it doesnt mean those are public domain. First, as long as those are not full book , it will be allowed to be posted for non-commercial, educaciona and reserach use only. Its is the responsability of the user to obtain the permission from the copyright owners (publishing companies). 
 
 Bellow you can enter the Legal Notice section of any of the three publishers' websites:
