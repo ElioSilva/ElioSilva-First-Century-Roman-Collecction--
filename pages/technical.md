@@ -78,7 +78,7 @@ Example: 4.72 x 7.09in
 
 The publishing company that is in charge of publishing new copies with recent preliminary studies and new translations that allows the reader to get closer to the author's original text is mentioned.
 
-Example: [Alianza Editorial](https://www.alianzaeditorial.es/quienes-somos/)
+Example: Alianza Editorial
 
 #### Translator - required , multiple values allowed
 All the published works are translated. The translator or contributor  is listed in this field in order to not be confused with the original author in the creator element. Like the creator element, the values of the translator element are formatted according to the [Library of Congress Name Authority File](https://id.loc.gov/authorities/names.html).
