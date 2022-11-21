@@ -31,5 +31,5 @@ Livy (64 BC - AD 17) was a Latin historian. Installed in Rome probably from the 
 [^2]: https://dbe.rah.es/biografias/14205/polibio
 [^3]: https://www.biografiasyvidas.com/biografia/p/plutarco.htm 
 [^4]: https://www.biografiasyvidas.com/biografia/s/suetonio.htm
-[^5]. https://www.biografiasyvidas.com/biografia/t/tacito.htm
-[^6]. https://www.biografiasyvidas.com/biografia/l/livio.htm 
+[^5]: https://www.biografiasyvidas.com/biografia/t/tacito.htm
+[^6]: https://www.biografiasyvidas.com/biografia/l/livio.htm 
